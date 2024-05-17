@@ -1,0 +1,13 @@
+﻿This is unconfirmed, but you will likely be able to download the project through .itch.io, where you can then proceed to run it through your computer by opening the game file.
+
+
+To close the game, you need to press the ESC key, navigate to the “Close Game” button, and click it. You can also close it by minimizing the screen and clicking the X in the top right corner. You can also close it with ALT + F4.
+
+
+You will begin in a bright grassy plane. Use W to move forward, A to move left, S to move backward, D to move right. Use the SPACEBAR to jump, or if you combine the jump with a movement, you will dive in that direction, giving you temporary immunity frames. Use the LEFT MOUSE button to swing your sword. Hold the RIGHT MOUSE button to notch an arrow, and let go of the button to release it. Press E for a fireball, and press F for a lightning bolt. 
+
+
+Monsters will try to attack you, and your goal is to kill them before they get the chance. 
+
+
+You need a computer with a mouse and keyboard to play this. High processing power is not required, but it will make your gameplay more smooth.
